@@ -3,6 +3,6 @@ var element = document.getElementById('main-text');
 element.innerHTML='New Value';  
 var img=document.getElementById('madi');
 img.onClick= function(){
-  img.style.marginleft='150px';  
+  img.style.marginLeft='150px';  
 };
 
